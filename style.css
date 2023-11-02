@@ -1,0 +1,33 @@
+body{
+    background-image: url('lady.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+
+    
+}
+
+
+.content-style{
+    position: absolute;
+    color: white;
+    left:600px;
+    top: 350px;
+     
+}
+
+.button-style{
+    position:absolute;
+    top: 400px;
+    left:750px;
+    padding: 5px;
+}
+h5{
+    padding: 5px;
+}
+
+.addon-style{
+    background-color: rgb(228, 13, 56)!important;
+    color:white;
+}
